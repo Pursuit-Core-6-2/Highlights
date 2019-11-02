@@ -1,5 +1,11 @@
 # Unit 3 Highlights
 
+## Videos
+[YouTube - Playlist](https://www.youtube.com/watch?v=-_PSo13jZKY&list=PLvQtbvxnE8UF6gJ0uXawC2cEby557FIon)
+
+## Code
+[github.com/Pursuit-Core-6-2/Lessons-Code/](https://github.com/Pursuit-Core-6-2/Lessons-Code/tree/master/unit_3)
+
 ## Postgres & Express.js
 
 * `pg-promise`. NPM package/library/module. PostgreSQL Interface for Node.js. Bridge between `js` and `sql` worlds.
